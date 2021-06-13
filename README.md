@@ -1,0 +1,1 @@
+you can control the rackets with the keys w,s for player_1 and i,k for player_2
